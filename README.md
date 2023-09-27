@@ -19,12 +19,17 @@ I know, FUN!!
 #
 #
 #
-2, Write a program in C that adds spaces between each character in the string and
- accepts a pointer and a string as arguments.
+
+2, Write a program in C that adds spaces between each character in the string and accepts a pointer and a string as arguments.
+
         * Prototype: void addSpaces(char *str, char *)
 #
 #
+#
+#
+
 3, Write a program that prints a triangle, and takes a pointer as one of it's parameters
+	
 	* Prototype: void print_tree(int size, char* tree)
 #
 #
