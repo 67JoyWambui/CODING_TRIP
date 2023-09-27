@@ -6,7 +6,7 @@ This is where we can practice our skills and knowlegde regarding our previous pr
 I know, FUN!!
 
 
-### These Practice questions will involve Pinters, Arraya and Strings because it's what we've covered so far###
+### These Practice questions will involve Pinters, Arrays and Strings because it's what we've covered so far###
 
 ##Questions
 
