@@ -1,4 +1,3 @@
-# Hello There!!
 ![Penguine Waving](https://media.tenor.com/kNq-zi8X4VoAAAAM/hey-friend-penguin.gif)
 
 ## This is the Coding Trip
